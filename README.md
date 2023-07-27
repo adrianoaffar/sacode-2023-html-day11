@@ -10,7 +10,7 @@ Ini Link Demo Saya : https://adrianoaffar.github.io/sacode-2023-html-day11/
 <img src="register.png" width="800px">
 
 ## Tampilan Login
-<img src="Login.png" width="800px">
+<img src="login.png" width="800px">
 
 ## Tampilan Aktivitas
-<img src="aktivitas.png" width="800px">
+<img src="akivitas.png" width="800px">
